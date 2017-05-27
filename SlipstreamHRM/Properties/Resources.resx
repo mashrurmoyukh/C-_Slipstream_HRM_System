@@ -118,34 +118,145 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Admin_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\App_Theme\Admin_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Header_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\App_Theme\Header_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Requirement_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\App_Theme\Requirement_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PIM_White_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\App_Theme\PIM_White_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Time_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\App_Theme\Time_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Home_Icon_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\App_Theme\Home_Icon_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Bulk_Update_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Bulk_Update_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Seetign_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\App_Theme\Seetign_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="User_Management_Logo_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\User_Management_Logo_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Leave_List_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Leave_List_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nationalities_Logo_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Nationalities_Logo_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AssignLeave_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\AssignLeave_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UpArrow_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\UpArrow_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Reports_White_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Reports_White_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Job_Logo_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Job_Logo_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HeaderLog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HeaderLog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Vacancy_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Vacancy_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Admin_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Admin_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Qualification_Inco_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Qualification_Inco_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_Icon_Black" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Home_Icon_Black.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Successfull" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Successfull.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bulk_Assign_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Bulk_Assign_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="SlipstreamHRM_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\App_Theme\SlipstreamHRM_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Project_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Project_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Entitelments_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Entitelments_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Edit_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Edit_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DownArrow_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\DownArrow_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Organization_Logo_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Organization_Logo_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Felete_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Felete_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Leave_White_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\App_Theme\Leave_White_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Add_Employee_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Add_Employee_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PIM_White_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\PIM_White_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HRMlogo_Slipstream" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\HRMlogo_Slipstream.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_Little_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home_Little_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="orange_color" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\orange_color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Time_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Time_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Add_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Add_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Requirement_Icon_White1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\App_Theme\Requirement_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Animation" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Animation.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_Little_Icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home_Little_Icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Employee_List_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Employee_List_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Add_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Add_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Discipline_White_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Discipline_White_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Refresh_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Refresh_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Select_Action_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Select_Action_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Requirement_Icon_White" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Requirement_Icon_White.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Green_Color" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Green_Color.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Header_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Header_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Personal_Info_White_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Personal_Info_White_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home_Icon_User" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Home_Icon_User.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Candidates_Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\Candidates_Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LogOutIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\App_Theme\LogOutIcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
